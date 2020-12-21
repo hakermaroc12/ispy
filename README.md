@@ -6,8 +6,8 @@ ispy : Eternalblue(ms17-010)/Bluekeep(CVE-2019-0708) Scanner and exploiter ( Met
 
 # How to install :
 ```
-git clone https://github.com/Cyb0r9/ispy.git
-cd ispy
+git clone https://github.com/Cyb0r9/hake.git
+cd hake
 chmod +x setup.sh
 ./setup.sh
 ```
